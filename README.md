@@ -9,16 +9,16 @@ Because I wanted to see how much of a performance impact adding a call to Encond
 This application simply times the execution of calls to methods on encoders. It runs the following tests:
 
 * UTF8
-** GetByteCount
-*** With 1K characters x1M
-*** With 10K characters x1M
-*** With 100K characters x100K
-*** With 500K characters x100K
-** GetBytes
-*** With 1K characters x1M
-*** With 10K characters x1M
-*** With 100K characters x100K
-*** With 500K characters x100K
+  * GetByteCount
+    * With 1K characters x1M
+    * With 10K characters x1M
+    * With 100K characters x100K
+    * With 500K characters x100K
+  * GetBytes
+    * With 1K characters x1M
+    * With 10K characters x1M
+    * With 100K characters x100K
+    * With 500K characters x100K
 
 ## Sample Output
 
